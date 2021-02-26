@@ -1,8 +1,8 @@
-Frank Entriken
-2298368
-entriken@chapman.edu
-CPSC 350
-Assignment 2: Game of Life
+## Frank Entriken
+## 2298368
+## entriken@chapman.edu
+## CPSC 350
+# Assignment 2: Game of Life
 
 This program runs a simulation called the Game of Life. The instructions for this game can be found here:
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
